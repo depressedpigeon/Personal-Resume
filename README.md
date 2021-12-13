@@ -1,3 +1,6 @@
-# test
-This is a test repository.  
-Some random stuff.
+# Personal Resume
+
+This repository is used for the creation aof a personal resume.
+Basically a library of everything that I learn to code.
+
+
